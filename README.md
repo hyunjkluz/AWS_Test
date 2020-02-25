@@ -3,6 +3,7 @@
 테스트 프로젝트 입니다.
 
 - 프로젝트 기간: 20.02.24 ~
+- api swagger: /apis
 
 ## Introduction
 
