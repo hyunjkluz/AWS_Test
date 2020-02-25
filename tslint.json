@@ -1,0 +1,9 @@
+{
+  "extends": ["tslint-config-airbnb", "tslint-config-prettier"],
+  "rules": {
+    "no-trailing-whitespace": [true],
+    "trailing-comma": false,
+    "import-name": [false],
+    "semicolon": [true, "always"]
+  }
+}

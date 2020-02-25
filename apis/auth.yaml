@@ -1,0 +1,13 @@
+paths:
+  /:
+    get:
+      tags:
+        - 계정
+      summary:
+      consumes:
+        - application/json
+      responses:
+        200:
+          description: Success to Connect
+        500:
+          description: Internal Server Error
